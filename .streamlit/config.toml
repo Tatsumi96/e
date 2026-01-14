@@ -1,0 +1,21 @@
+# Fichier de configuration de Streamlit
+# Documentation : https://docs.streamlit.io/library/advanced-features/configuration
+
+[theme]
+# Thème de base pour l'application.
+# Les valeurs possibles sont "light", "dark", ou "system".
+# "system" utilise le thème du système d'exploitation de l'utilisateur.
+#
+# Décommentez l'une des lignes ci-dessous pour forcer un thème.
+# Par défaut, nous mettons "dark".
+
+base = "dark"
+# base = "light"
+# base = "system"
+
+# Couleurs primaires et de fond (optionnel)
+# Vous pouvez décommenter et personnaliser ces couleurs si vous le souhaitez.
+# primaryColor="#1f77b4"
+# backgroundColor="#f0f2f6"
+# secondaryBackgroundColor="#ffffff"
+# textColor="#2c3e50"

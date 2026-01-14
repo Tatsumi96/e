@@ -1,0 +1,22 @@
+.stApp {
+  background-color: var(--background-color);
+}
+.card {
+  background-color: teal;
+  border-radius: 10px;
+  padding: 2px;
+  margin-bottom: 30px;
+}
+.stMetric {
+  border-left: 5px solid var(--primary-color);
+  padding-left: 15px;
+  padding: 20px;
+  padding-right: 5px;
+  border-left: 5px solid tomato;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+h1,
+h2,
+h3 {
+  color: var(--text-color);
+}
